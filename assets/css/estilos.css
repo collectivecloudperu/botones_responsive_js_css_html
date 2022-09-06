@@ -1,0 +1,50 @@
+.miboton {
+    background-color: #525251!important;
+    border-radius: 5px;
+    font-size: 17px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 6px 18px;
+    border: inherit;
+    
+}
+
+.miboton, .btn-chico, .btn-mediano, .btn-grande, .miboton:link, .miboton:visited {
+    color: #FFFFFF;
+    background-color: #525251;
+}
+
+.btn-chico {
+    font-size: 1rem;
+    display: inline-block;
+    width: calc(50% - 20px);
+    padding: 10px;
+    margin: 10px;
+    background-color: #5d6bea!important;
+    border-radius: 5px;    
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 6px 18px;
+}
+
+.btn-mediano {
+    font-size: 1rem;
+    display: inline-block;
+    width: calc(50% - 20px);
+    padding: 10px;
+    margin: 10px;
+    background-color: #79dd74!important;
+    border-radius: 5px;    
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 6px 18px;
+} 
+
+.btn-grande {
+    font-size: 1rem;
+    display: inline-block;
+    width: calc(50% - 20px);
+    padding: 10px;
+    margin: 10px;
+    background-color: #525251!important;
+    border-radius: 5px;    
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 6px 18px;
+} 
